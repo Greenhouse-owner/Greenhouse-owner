@@ -1,4 +1,4 @@
-# Hi 👋, I'm li
+# Hi 👋, I'm Chuan
 
 - 🔭 I'm currently working on **AI agent**
 
