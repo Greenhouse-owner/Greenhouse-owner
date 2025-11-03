@@ -2,7 +2,7 @@
 
 - 🔭 I'm currently working on **AI agent**
 
-- 🌱 I'm currently learning **TensorFlow, LangChain, MCP, Docker+FastAPI+Milvus**
+- 🌱 I'm currently learning **AutoGen, LangChain, MCP, Docker+FastAPI+Milvus**
 
 - 👯 I'm looking to collaborate on **Open source project**
 
